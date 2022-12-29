@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZehraPunjwani
+- 👋 Hi, I’m Zehra
 - 👀 I’m a Full Stack Mobile & Web Engineer providing successful delivery of business outcomes through the SDLC using agile best practices
 - 🌱 I’m currently learning Java OCP Certification
 
