@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img align="right" height="auto" width="400" src="./output-onlinegiftools.gif" alt="zehrapunjwani" />
+<img style="padding:0px;margin:0px;" align="right" height="auto" width="350" src="./output-onlinegiftools.gif" alt="zehrapunjwani" />
 
 <div>
  <p>
