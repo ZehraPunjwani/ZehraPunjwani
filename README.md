@@ -17,6 +17,9 @@
 <br />
 
 <div>
+ 
+ <img align="right" height="auto" width="300" src="" alt="zehrapunjwani" />
+ 
  <p>
 👀 A $\color{orange}{Full\ Stack\ Mobile\ and\ Web\ Engineer}$ with 5+ years of academic and professional experience within the $\color{orange}{Fintech\ and\ software\ engineering\ industry}$. Providing successful delivery of business outcomes into production, including design, development, testing, and deployment, using various legacy, modernized programming, and software engineering tools.
    
@@ -71,7 +74,7 @@ Education
   [![Zehra Punjwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrapunjwani&show_icons=true&count_private=true)](https://github.com/zehrapunjwani)
 </p>
 
-### 👀 Key Repo
+## Key Repo 👀
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrapunjwani&repo=DataStructuresAlgorithms&theme=radical "DataStructuresAlgorithms")](https://github.com/ZehraPunjwani/DataStructuresAlgorithms)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrapunjwani&repo=InstituteOfCancerResearch&theme=highcontrast "InstituteOfCancerResearch")](https://github.com/ZehraPunjwani/InstituteOfCancerResearch)
 
