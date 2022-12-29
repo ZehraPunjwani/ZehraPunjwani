@@ -42,22 +42,22 @@ Education
 
 ### Programming Languages & Frameworks 🌐
 
-| [Java](https://www.java.com/) | [JavaScript](https://www.javascript.com/) | [J2EE](https://www.oracle.com/java/technologies/appmodel.html) | [Spring](https://spring.io/) | [Spring-Boot](https://spring.io/projects/spring-boot) |  [React](https://reactjs.org/) | [Redux](https://redux.js.org/) |  [Angular](https://angular.io/)
+| [<img src="https://logonoid.com/images/java-logo.png" alt="java" width="24">](https://www.java.com/) | [<img src="https://logonoid.com/images/javascript-logo.png" alt="javascript" width="24">](https://www.javascript.com/) | [<img src="https://logonoid.com/images/oracle-logo.png" alt="oracle" width="24">](https://www.oracle.com/java/technologies/appmodel.html) | [Spring](https://spring.io/) | [Spring-boot](https://spring.io/projects/spring-boot) |  [<img src="https://logonoid.com/images/react-logo.png" alt="React" width="24">](https://reactjs.org/) | [Redux](https://redux.js.org/) |  [<img src="https://logonoid.com/images/angularjs-logo.png" alt="angular" width="100">](https://angular.io/)
 |---|---|---|---|---|---|---|---|
 
 ### Testing 🚧
 
-| [JUnit](https://junit.org/) | [Jest](https://jestjs.io/)
+| [<img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="24">](https://junit.org/) | [<img src="https://miro.medium.com/max/300/1*veOyRtKTPeoqC_VlWNUc5Q.png" alt="Jest" width="24">](https://jestjs.io/)
 |---|---|
 
 ### Cloud & Databases ☁️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [Oracle](https://www.oracle.com/) | [Sybase](https://www.sap.com/products/acquired-brands/what-is-sybase.html) | [MongoDB](https://www.mongodb.com/) | [AWS](https://aws.amazon.com/)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://logonoid.com/images/oracle-logo.png" alt="oracle" width="24">](https://www.oracle.com/) | [<img src="https://user-images.githubusercontent.com/16902482/209936863-911adc17-647d-4004-9559-f1201f81f2d1.png" alt="Sybase" width="24">](https://www.sap.com/products/acquired-brands/what-is-sybase.html) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://logonoid.com/images/aws-logo.png" alt="AWS" width="100">](https://aws.amazon.com/)
 |---|---|---|---|---|---|
 
 ### Tools 🛠️
 
-| [Jenkins](https://www.jenkins.io/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://logonoid.com/images/intellij-idea-logo.png" alt="idea" width="24">](https://www.jetbrains.com/idea/)
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="24">](https://www.jenkins.io/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://logonoid.com/images/intellij-idea-logo.png" alt="idea" width="24">](https://www.jetbrains.com/idea/)
 |---|---|---|---|
 
 ### Architecture 🏗️
