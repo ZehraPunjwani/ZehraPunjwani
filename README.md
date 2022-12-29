@@ -52,12 +52,12 @@ Education
 
 ### Cloud & Databases ☁️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://logonoid.com/images/oracle-logo.png" alt="oracle" width="24">](https://www.oracle.com/) | [<img src="https://user-images.githubusercontent.com/16902482/209936863-911adc17-647d-4004-9559-f1201f81f2d1.png" alt="Sybase" width="24">](https://www.sap.com/products/acquired-brands/what-is-sybase.html) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://logonoid.com/images/aws-logo.png" alt="AWS" width="100">](https://aws.amazon.com/)
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="24">](https://firebase.google.com/) | [<img src="https://logonoid.com/images/oracle-logo.png" alt="oracle" width="24">](https://www.oracle.com/) | [<img src="http://photos.prnewswire.com/prnfull/20101203/MM12180LOGO?p=publish" alt="Sybase" width="24">](https://www.sap.com/products/acquired-brands/what-is-sybase.html) | [<img src="https://havecamerawilltravel.com/wp-content/uploads/2021/09/Amazon-Web-Services-logo-1.png" alt="AWS" width="100">](https://aws.amazon.com/)
+|---|---|---|---|---|
 
 ### Tools 🛠️
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="24">](https://www.jenkins.io/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://logonoid.com/images/intellij-idea-logo.png" alt="idea" width="24">](https://www.jetbrains.com/idea/)
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="24">](https://www.jenkins.io/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://logonoid.com/images/intellij-idea-logo.png" alt="idea" width="20">](https://www.jetbrains.com/idea/)
 |---|---|---|---|
 
 ### Architecture 🏗️
@@ -68,7 +68,7 @@ Education
 ## Github Stats & Top langs  🐐
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrapunjwani&langs_count=10&theme=tokyonight&layout=compact" alt="zehrapunjwani :: Top Langs" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrapunjwani&langs_count=10&theme=tokyonight&layout=compact" alt="zehrapunjwani :: Top Langs" width="300" />
   
   [![Zehra Punjwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrapunjwani&show_icons=true&count_private=true)](https://github.com/zehrapunjwani)
 </p>
