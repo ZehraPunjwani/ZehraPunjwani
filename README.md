@@ -16,10 +16,9 @@
 <br />
 <br />
 
+<img align="right" height="auto" width="400" src="./output-onlinegiftools.gif" alt="zehrapunjwani" />
+
 <div>
- 
- <img align="right" height="auto" width="300" src="" alt="zehrapunjwani" />
- 
  <p>
 👀 A $\color{orange}{Full\ Stack\ Mobile\ and\ Web\ Engineer}$ with 5+ years of academic and professional experience within the $\color{orange}{Fintech\ and\ software\ engineering\ industry}$. Providing successful delivery of business outcomes into production, including design, development, testing, and deployment, using various legacy, modernized programming, and software engineering tools.
    
