@@ -14,7 +14,6 @@
 </a>
 
 <br />
-<br />
 
 <img style="padding:0px;margin:0px;" align="right" height="auto" width="300" src="./developer.gif" alt="zehrapunjwani" />
 
