@@ -69,7 +69,7 @@ Education
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrapunjwani&langs_count=10&theme=tokyonight&layout=compact" alt="zehrapunjwani :: Top Langs" width="300" />
   
-  [![Zehra Punjwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrapunjwani&show_icons=true&count_private=true&count_public=true)](https://github.com/zehrapunjwani)
+  [![Zehra Punjwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrapunjwani&show_icons=true&count_private=true)](https://github.com/zehrapunjwani)
 </p>
 
 ## Key Repo 👀
