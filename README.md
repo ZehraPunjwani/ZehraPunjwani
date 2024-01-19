@@ -3,19 +3,19 @@
  <h2 align="center">Profile</h2>
 </p>
 
-## Hi there 👋 I'm Zehra Punjwani 👩‍💻
-> Associate Full Stack Engineer at [Morgan Stanley](https://www.morganstanley.com/)
+## Hi there 👋 I'm Zehra Rahimali 👩‍💻
+> Associate Full Stack Engineer at [Mizuho International]
 
-<a href="https://github.com/zehrapunjwani">
-  <img src="https://img.shields.io/github/followers/zehrapunjwani" alt="zehrapunjwani" >
+<a href="https://github.com/zehrarahimali">
+  <img src="https://img.shields.io/github/followers/zehrarahimali" alt="zehrarahimali" >
 </a>
-<a href="https://github.com/zehrapunjwani">
-   <img src="https://komarev.com/ghpvc/?username=zehrapunjwani" alt="zehrapunjwani" >
+<a href="https://github.com/zehrarahimali">
+   <img src="https://komarev.com/ghpvc/?username=zehrarahimali" alt="zehrarahimali" >
 </a>
 
 <br />
 
-<img style="padding:0px;margin:0px;" align="right" height="auto" width="300" src="./developer.gif" alt="zehrapunjwani" />
+<img style="padding:0px;margin:0px;" align="right" height="auto" width="300" src="./developer.gif" alt="zehrarahimali" />
 
 <div>
  <p>
@@ -67,23 +67,23 @@ Education
 ## Github Stats & Top langs  🐐
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrapunjwani&langs_count=10&theme=tokyonight&layout=compact" alt="zehrapunjwani :: Top Langs" width="300" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrarahimali&langs_count=10&theme=tokyonight&layout=compact" alt="zehrarahimali :: Top Langs" width="300" />
   
-  [![Zehra Punjwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrapunjwani&show_icons=true&count_private=true)](https://github.com/zehrapunjwani)
+  [![Zehra Rahimali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrarahimali&show_icons=true&count_private=true)](https://github.com/zehrarahimali)
 </p>
 
 ## Key Repo 👀
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrapunjwani&repo=DataStructuresAlgorithms&theme=radical "DataStructuresAlgorithms")](https://github.com/ZehraPunjwani/DataStructuresAlgorithms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrapunjwani&repo=InstituteOfCancerResearch&theme=highcontrast "InstituteOfCancerResearch")](https://github.com/ZehraPunjwani/InstituteOfCancerResearch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrarahimali&repo=DataStructuresAlgorithms&theme=radical "DataStructuresAlgorithms")](https://github.com/ZehraRahimali/DataStructuresAlgorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrarahimali&repo=InstituteOfCancerResearch&theme=highcontrast "InstituteOfCancerResearch")](https://github.com/ZehraRahimali/InstituteOfCancerResearch)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/zehrapunjwani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@zehrapunjwani-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/zehrarahimali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@zehrarahimali-blue?style=flat&logo=linkedin"></a>
 </p>
 
 
 <!---
-ZehraPunjwani/ZehraPunjwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ZehraRahimali/ZehraRahimali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
